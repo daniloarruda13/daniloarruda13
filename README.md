@@ -49,7 +49,19 @@ My work involves **extracting and transforming complex datasets**, building **pr
 ---
 ## 🧩 Featured Projects
 
-![Playing Volleyball in VR](Playing%20Volleyball%20in%20VR.gif)
+<table>
+  <tr>
+    <td align="center">
+      <img src="Playing%20Volleyball%20in%20VR.gif" width="300"/><br>
+      <b>VR App for doing research on Volleyball</b>
+    </td>
+    <td align="center">
+      <img src="Fifa_dashboard.gif" width="300"/><br>
+      <b>Exploratory Analysis of Soccer games using R-Shiny</b>
+    </td>
+  </tr>
+</table>
+
 
 
 ---

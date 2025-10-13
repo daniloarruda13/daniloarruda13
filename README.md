@@ -65,19 +65,30 @@ My work involves **extracting and transforming complex datasets**, building **pr
 
 
 ---
+## 📊 Recent Scientific Publications
 
-## 📊 Research Focus
-
-<a href="[https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=On_20uoAAAAJ&hl=en)" title="View my publications on Google Scholar">
-  📚 Google Scholar Profile
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="citations.jpg" alt="Citation Metrics" width="800"/>
+    </td>
+    <td>
+      <p><strong>1.</strong> Arruda, D. G., Freeman, B., Wagman, J. B., & Stoffregen, T. A. (2025). <em>Higher order affordances for serve reception in volleyball.</em> [Manuscript under review]</p>
+      <p><strong>2.</strong> DeGuzman, J. J., Arruda, D. G., Nie, T., Pospick, C. H., Curry, C., Rosenberg, E. S., Interante, V., & Stoffregen, T. A. (2025). <em>Scene complexity influences cybersickness among males during virtual driving.</em> [Manuscript under review]</p>
+      <p><strong>3.</strong> Arruda, D. G. (2024). <em>Perceiving affordances for receiving a serve in virtual volleyball.</em> Doctoral dissertation, University of Minnesota.</p>
+      <p><strong>4.</strong> Arruda, D. G., Barp, F., Felisberto, G., Tkak, C., Wagman, J. B., & Stoffregen, T. A. (2023). <em>Perception of affordances in female volleyball players: Serving short versus serving to the sideline.</em></p>
+      <p><strong>5.</strong> Bailey, G. S., Arruda, D. G., & Stoffregen, T. A. (2022). <em>Using quantitative data on postural activity to develop methods to predict and prevent cybersickness.</em> Frontiers in Virtual Reality, 3, 1001080.</p>
+      <p><strong>6.</strong> Arruda, D. G., Dai, B., Readdy, T., McCrea, S., & Zhu, Q. (2022). <em>Sequential focus of attention instructions influenced motor performance of volleyball setting despite direction of focus but dependent on motor expertise of the player.</em> International Journal of Sport and Exercise Psychology, 1–28.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧰 What am I learning currently?
 
-- Flutter Development
-- Machine Learning and BI Integration 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 
 ---
 

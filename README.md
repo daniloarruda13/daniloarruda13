@@ -49,8 +49,8 @@ My work involves **extracting and transforming complex datasets**, building **pr
 ---
 ## 🧩 Featured Projects
 
-[![Watch the video](https://img.youtube.com/vi/YYCKHj-YVww/hqdefault.jpg)](https://youtu.be/YYCKHj-YVww)  
-*An applied example of my work combining data analytics, biomechanics, and motion capture to study perception–action coupling and performance in dynamic sports environments.*
+![Playing Volleyball in VR](Playing%20Volleyball%20in%20VR.gif)
+
 
 ---
 

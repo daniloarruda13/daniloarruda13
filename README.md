@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="animated_name.svg";" alt="Click to see the source">
+  <img src="animated_name.svg" style="width: 100%;;" alt="Click to see the source">
 </div>
 
 ---

@@ -2,7 +2,6 @@
   <img src="animated_name.svg" style="width: 50%;" alt="Click to see the source">
 </div>
 
-🎯 **Data Scientist | Sports Researcher | VR & Biomechanics**
 
 ---
 

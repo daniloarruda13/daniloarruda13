@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="animated_name.svg" style="width: 100%;;" alt="Click to see the source">
+  <img src="animated_name.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 ---
@@ -62,8 +62,6 @@ My work involves **extracting and transforming complex datasets**, building **pr
   </tr>
 </table>
 
-
-
 ---
 ## 📊 Recent Scientific Publications
 
@@ -89,17 +87,16 @@ My work involves **extracting and transforming complex datasets**, building **pr
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-
 ---
 
 ## 📫 Let’s Connect!
 
-🌐 [LinkedIn](https://www.linkedin.com/in/danilo-arruda-phd-b0325b24a/)
-<br>👩🏻‍🔬 [Research Gate](https://www.researchgate.net/profile/Danilo-Arruda-6?ev=hdr_xprf)
-<br>🤸 [Training Lab](www.traininglab.online)
-<br>📧 daniloarruda13@gmail.com   
-<br>💬 Always open to collaborations in **sports analytics, VR research, and applied performance technology.**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-arruda-phd-b0325b24a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/daniloarrudaaa/)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Danilo-Arruda-6?ev=hdr_xprf)
+[![Training Lab](https://img.shields.io/badge/-Training%20Lab-555555?style=flat-square&logo=dumbbell&logoColor=white)](https://www.traininglab.online)
+[![Gmail](https://img.shields.io/badge/-daniloarruda13%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daniloarruda13@gmail.com)
 
 ---
 
-> “My mission is to blend data, movement, and technology to help people understand — and expand — their limits.”
+<p align="center"><i>“Whether you think you can or think you can't, either way you are right.”</i><br>— Henry Ford</p>

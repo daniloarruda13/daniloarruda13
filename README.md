@@ -15,17 +15,17 @@ My work involves **extracting and transforming complex datasets**, building **pr
 
 ## ⚙️ What I Do
 
-- 🧩 **Sports Performance Analytics:**  
-  Advanced analysis of movement and coordination using kinematic and time-series data, including **Continuous Relative Phase (CRP)**, **Uncontrolled Manifold (UCM)**, and **Self-Organizing Maps** for skill evaluation.
+- 💻 **Data Science Projects:**  
+  Development of end-to-end data science solutions, including **data extraction, cleaning, modeling, and visualization**. Application of **machine learning**, **time-series analysis**, and **interactive dashboards** to solve complex problems in any industry.
 
-- ⚾ **Baseball Data Science:**  
-  Machine learning modeling (XGBoost, LightGBM) for predicting **swing contact and decision-making**, integrating **pitch-level datasets** and player performance metrics.
+- 🧩 **Sports Performance Analytics:**  
+  Advanced analysis of movement and coordination using biomechanical and time-series data. Experience with modern movement analysis tools such as **Continuous Relative Phase (CRP)**, **Uncontrolled Manifold (UCM)**, and **Self-Organizing Maps**.
 
 - 🏐 **Volleyball Analytics:**  
   Data extraction and video analysis of **attack and defensive patterns** using Python (BeautifulSoup, Selenium) and visualization in R and Power BI.
 
 - 🎮 **VR & Human Perception Research:**  
-  Experimental studies using **Virtual Reality** to investigate **attention**, **perception**, and **motor control** in dynamic sports contexts.
+  Experience developing **Virtual Reality Applications** to perform research on human behavior in dynamic contexts.
 
 - 💪 **Applied Training & Coaching:**  
   Experience as a **strength and conditioning specialist** and **personal trainer**, applying evidence-based programming tailored to athlete development and injury prevention.
@@ -68,18 +68,16 @@ My work involves **extracting and transforming complex datasets**, building **pr
 
 ## 📊 Research Focus
 
-- **Attentional strategies** (internal vs. external focus) and their influence on performance and kinematic efficiency  
-- **Whole-body coordination and variability** in complex tasks like batting and pitching  
-- **Gaze and perception-action coupling** in virtual and real environments  
-- **Integration of machine learning and biomechanics** for performance diagnostics
+<a href="[https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=On_20uoAAAAJ&hl=en)" title="View my publications on Google Scholar">
+  📚 Google Scholar Profile
+</a>
 
 ---
 
-## 🧰 Current Goals
+## 🧰 What am I learning currently?
 
-- Expanding the integration of **machine learning** into **movement diagnostics**  
-- Building open-source **sports analytics pipelines** and **interactive reports** (R + Plotly + HTML)  
-- Exploring **AI-driven video analysis** for real-time decision feedback in sports  
+- Flutter Development
+- Machine Learning and BI Integration 
 
 ---
 

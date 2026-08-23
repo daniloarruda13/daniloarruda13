@@ -4,35 +4,43 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I’m a data-driven problem solver with a deep interest in how data and analytics can inform performance, strategy, and human behavior.
-Holding a Ph.D. in Exercise Science, I combine domain expertise in **sports and movement science** with advanced skills in **data science, statistical modeling, and machine learning.**
+I’m a data-driven problem solver with expertise spanning **artificial intelligence, data science, machine learning, and human behavior**.
 
-My work involves **extracting and transforming complex datasets**, building **predictive models**, and **creating interactive dashboards** that reveal actionable insights.
+Holding a **Ph.D. in Kinesiology-Human Factors**, I combine deep domain expertise in **sports, movement science, and human performance** with extensive experience in **AI training and evaluation, statistical modeling, and machine learning**.
 
----
+My AI work includes **designing complex prompts and evaluation tasks, training and reviewing AI-generated outputs, and developing high-quality datasets and artifacts for model training and evaluation**. I have worked extensively on AI tasks involving **Python and Jupyter notebooks, data analysis, scientific reasoning, and the generation and evaluation of documents, spreadsheets, and presentations**.
 
-## ⚙️ What I Do
+Beyond AI training, I build end-to-end data solutions—from **extracting, cleaning, and transforming complex datasets** to developing **predictive models, analytical pipelines, and interactive visualizations** that turn data into actionable insights.
 
-- 💻 **Data Science Projects:**  
-  Development of end-to-end data science solutions, including **data extraction, cleaning, modeling, and visualization**. Application of **machine learning**, **time-series analysis**, and **interactive dashboards** to solve complex problems in any industry.
-
-- 🧩 **Sports Performance Analytics:**  
-  Advanced analysis of movement and coordination using biomechanical and time-series data. Experience with modern movement analysis tools such as **Continuous Relative Phase (CRP)**, **Uncontrolled Manifold (UCM)**, and **Self-Organizing Maps**.
-
-- 🏐 **Volleyball Analytics:**  
-  Data extraction and video analysis of **attack and defensive patterns** using Python (BeautifulSoup, Selenium) and visualization in R and Power BI.
-
-- 🎮 **VR & Human Perception Research:**  
-  Experience developing **Virtual Reality Applications** to perform research on human behavior in dynamic contexts.
-
-- 💪 **Applied Training & Coaching:**  
-  Experience as a **strength and conditioning specialist** and **personal trainer**, applying evidence-based programming tailored to athlete development and injury prevention.
+I’m particularly interested in projects at the intersection of **AI, data, technology, and human performance**.
 
 ---
 
-## 💻 Languages & Tools
+## What I Do
+
+- **AI Training & Evaluation:**  
+  Design and evaluate **AI prompts, model outputs, datasets, and structured artifacts**, with experience across **coding, data science, scientific reasoning, documents, spreadsheets, and presentations**.
+
+- **Data Science & Machine Learning:**  
+  Build end-to-end solutions involving **data extraction, cleaning, feature engineering, statistical modeling, machine learning, time-series analysis, and visualization**.
+
+- **Sports & Human Performance Analytics:**  
+  Analyze **movement, biomechanics, performance, and behavioral data** using statistical and computational methods, including **CRP, UCM, Self-Organizing Maps, and machine learning**.
+
+- **Sports Data & Video Analytics:**  
+  Develop Python-based workflows for **data extraction, computer vision, video analysis, and performance analytics**, with extensive experience in **volleyball and soccer**.
+
+- **VR & Human Behavior Research:**  
+  Develop **Virtual Reality applications and experimental pipelines** to investigate perception, decision-making, movement, and behavior in dynamic environments.
+
+- **Applied Training & Coaching:**  
+  Apply expertise in **strength and conditioning, motor learning, and sports science** to evidence-based athlete development and performance.
+
+---
+
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -47,7 +55,7 @@ My work involves **extracting and transforming complex datasets**, building **pr
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
-## 🧩 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -63,17 +71,17 @@ My work involves **extracting and transforming complex datasets**, building **pr
 </table>
 
 ---
-## 📊 Recent Scientific Publications
+## Recent Scientific Publications
 
 <table>
   <tr>
     <td>
-      <img src="citations.jpg" alt="Citation Metrics" width="800"/>
+      <img src="citations.png" alt="Citation Metrics" width="800"/>
     </td>
     <td>
-      <p><strong>1.</strong> Arruda, D. G., Freeman, B., Wagman, J. B., & Stoffregen, T. A. (2025). <em>Higher order affordances for serve reception in volleyball.</em> [Manuscript under review]</p>
-      <p><strong>2.</strong> DeGuzman, J. J., Arruda, D. G., Nie, T., Pospick, C. H., Curry, C., Rosenberg, E. S., Interante, V., & Stoffregen, T. A. (2025). <em>Scene complexity influences cybersickness among males during virtual driving.</em> [Manuscript under review]</p>
-      <p><strong>3.</strong> Arruda, D. G. (2024). <em>Perceiving affordances for receiving a serve in virtual volleyball.</em> Doctoral dissertation, University of Minnesota.</p>
+      <p><strong>1.</strong> Arruda, D. G., Freeman, B., Wagman, J. B., & Stoffregen, T. A. (2026). <em>Higher order affordances for serve reception in volleyball.</em> [Manuscript in preparation]</p>
+      <p><strong>2.</strong> Böge, V., Peker, A. T., Kılcı, A., Arruda, D. G., Gonçalves, B., & Lago-Peñas, C. (2026). <em>The association of team surface area and tactical formation on match running performance in elite soccer.</p>
+      <p><strong>3.</strong> DeGuzman, J. J., Arruda, D. G., Nie, T., Pospick, C. H., Curry, C., Rosenberg, E. S., Interante, V., & Stoffregen, T. A. (2026). <em>Scene complexity influences cybersickness among males during virtual driving.</em> [Manuscript under review]</p>
       <p><strong>4.</strong> Arruda, D. G., Barp, F., Felisberto, G., Tkak, C., Wagman, J. B., & Stoffregen, T. A. (2023). <em>Perception of affordances in female volleyball players: Serving short versus serving to the sideline.</em></p>
       <p><strong>5.</strong> Bailey, G. S., Arruda, D. G., & Stoffregen, T. A. (2022). <em>Using quantitative data on postural activity to develop methods to predict and prevent cybersickness.</em> Frontiers in Virtual Reality, 3, 1001080.</p>
       <p><strong>6.</strong> Arruda, D. G., Dai, B., Readdy, T., McCrea, S., & Zhu, Q. (2022). <em>Sequential focus of attention instructions influenced motor performance of volleyball setting despite direction of focus but dependent on motor expertise of the player.</em> International Journal of Sport and Exercise Psychology, 1–28.</p>
@@ -83,13 +91,7 @@ My work involves **extracting and transforming complex datasets**, building **pr
 
 ---
 
-## 🧰 What am I learning currently?
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
----
-
-## 📫 Let’s Connect!
+## Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-arruda-phd-b0325b24a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/daniloarrudaaa/)
